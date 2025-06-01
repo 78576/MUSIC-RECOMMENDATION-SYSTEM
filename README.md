@@ -43,3 +43,8 @@ This project uses facial emotion recognition (or optionally, text input) to dete
 - ├── music recommender system with GUI.ipynb # Notebook with emotion-based GUI music app
 - ├── emotion_model.h5 # Trained emotion classification model
 - ├── fer2013.csv # Dataset used for training emotion recognition model
+📦 Full Project Download
+
+## Due to GitHub’s file size limits, you can download the full project (including music files and trained model) from the link below:
+
+👉 [Download Music Recommendation System Project (ZIP, 140MB)](https://drive.google.com/drive/folders/1DgJhxmcQoMM9dnFN0nFBLxGVoD1NhJa9?usp=sharing)
