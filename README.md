@@ -47,4 +47,4 @@ This project uses facial emotion recognition (or optionally, text input) to dete
 
 ## Due to GitHub’s file size limits, you can download the full project (including music files and trained model) from the link below:
 
-👉 [Download Music Recommendation System Project (ZIP, 140MB)](https://drive.google.com/drive/folders/1DgJhxmcQoMM9dnFN0nFBLxGVoD1NhJa9?usp=sharing)
+👉 [Download Music Recommendation System Project](https://drive.google.com/drive/folders/1DgJhxmcQoMM9dnFN0nFBLxGVoD1NhJa9?usp=sharing)
