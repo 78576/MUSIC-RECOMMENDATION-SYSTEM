@@ -37,7 +37,6 @@ This project uses facial emotion recognition (or optionally, text input) to dete
 - │
 - ├── assets/ # Images, icons, or other static resources
 - ├── musics/ # Music files (organized by emotion/category)
-- ├── Summaries/ # Notes, reports, or analysis summaries
 - │
 - ├── emotion detection system.ipynb # Jupyter notebook for emotion detection using CNN
 - ├── music recommender system with GUI.ipynb # Notebook with emotion-based GUI music app
